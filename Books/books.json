@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Title": "C# 入门精要",
+    "Description": "一本适合初学者的 C# 编程入门书籍，内容涵盖基础语法、面向对象、常用类库等。",
+    "CoverImage": "cover-csharp.jpg",
+    "StripePaymentLink": "https://buy.stripe.com/aFafZj7919xd8GqeeS4sE01"
+  },
+  {
+    "Id": 2,
+    "Title": "ASP.NET Core 实战",
+    "Description": "深入讲解 ASP.NET Core 开发实战案例，适合有一定基础的开发者。",
+    "CoverImage": "cover-aspnetcore.jpg",
+    "StripePaymentLink": "https://buy.stripe.com/test_abcdefghij"
+  }
+]
